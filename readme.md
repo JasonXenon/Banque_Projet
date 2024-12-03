@@ -48,4 +48,4 @@ Ce projet est un exercice d'application des principes de la programmation orient
 
 1. **Créer une Personne :**
    ```csharp
-   var person = new Person("Jean", "Dupont", new DateTime(1985, 5, 15));
+   var person = new Person("John", "Doe", new DateTime(1985, 5, 15));
