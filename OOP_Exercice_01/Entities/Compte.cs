@@ -19,7 +19,7 @@ public abstract class Compte : ICustomer, IBanker
         }
     }
 
-    public double Amount  { get; protected set; }
+    public double Amount  { get; set; }
     private Person _Titulaire;
     public Person Titulaire { get
         {
